@@ -71,10 +71,4 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kingaventure&radius=16&theme=one-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-<div align="left">
-  <a href="https://open.spotify.com/user/kingaventure">
-    ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16)
-  </a>
-</div>
-
 ###
