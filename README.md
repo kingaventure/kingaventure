@@ -44,9 +44,9 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://open.spotify.com/user/kingaventure">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=kingaventure&count=5&unique=false" alt="Spotify recently played"  />
+    ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16)
   </a>
 </div>
 
