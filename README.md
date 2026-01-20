@@ -1,4 +1,4 @@
-Est tu le meilleur car tu est Julien Groult ou est-tu Julien Groult car tu est le meilleur ?
+Es-tu le meilleur car tu es Julien Groult ou es-tu Julien Groult car tu es le meilleur ?
 # 💫 About Me:
 ✨ Creating bugs since 2005<br>📚 I'm currently learning new programing languages<br>🎯 Goals: make a full video game<br>🔥​ Current fixation : Warframe<br>🎲 Fun fact: I'm french
 
